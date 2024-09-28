@@ -6,6 +6,8 @@ import Services from './component/services';
 import Works from './component/works';
 import Teams from './component/teams';
 import Testimonials from './component/testimonials';
+import Pricing from './component/pricing';
+import Blog from './component/blog';
 
 function App() {
   return (
@@ -20,6 +22,8 @@ function App() {
         <Works/>
         <Teams/>
         <Testimonials/>
+        <Pricing/>
+        <Blog/>
       </main>
     </div>
   );
