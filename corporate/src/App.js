@@ -8,6 +8,7 @@ import Teams from './component/teams';
 import Testimonials from './component/testimonials';
 import Pricing from './component/pricing';
 import Blog from './component/blog';
+import Contact from './component/contact';
 
 function App() {
   return (
@@ -24,6 +25,7 @@ function App() {
         <Testimonials/>
         <Pricing/>
         <Blog/>
+        <Contact/>
       </main>
     </div>
   );
