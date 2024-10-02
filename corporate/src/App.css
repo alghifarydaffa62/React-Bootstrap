@@ -509,7 +509,7 @@ textarea {
 }
 
 .about-block .progress-bar {
-  background-color: #f64b4b;
+  background-color: #207705;
   -webkit-transition: width 0.3s linear;
   transition: width 0.3s linear;
 }
@@ -661,7 +661,7 @@ textarea {
   transition: all 0.3s linear;
   -webkit-transition: all 0.2s linear;
   vertical-align: middle;
-  background: rgba(246, 75, 75, 0.9);
+  background: rgba(9, 8, 97, 0.9);
   opacity: 0;
 }
 

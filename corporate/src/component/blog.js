@@ -50,7 +50,7 @@ export default function Blog() {
                                                 <time>{blog.time}</time>
                                                 <Card.Title>{blog.title}</Card.Title>
                                                 <Card.Text>{blog.description}</Card.Text>
-                                                <a href={blog.link} className='btn btn-primary'>Read more <i class="fas fa-chevron-right"></i> </a>
+                                                <a href={blog.link} className='btn btn-primary'>Read more <i className="fas fa-chevron-right"></i> </a>
                                             </Card.Body>
                                         </Card>
                                     </div>
